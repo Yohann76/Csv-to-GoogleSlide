@@ -1,0 +1,8 @@
+venv/
+env/
+
+/venv
+/env
+
+credentials_file.json
+token.json
